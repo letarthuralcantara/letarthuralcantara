@@ -1,115 +1,93 @@
-<h1 align="center">Olá, eu sou o Arthur 👋</h1>
+<h1 align="center">Olá, eu sou o Arthur Alcântara 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+em+forma%C3%A7%C3%A3o;Arduino+%7C+JavaScript+%7C+SQL;Produtor+musical+no+FL+Studio+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+M%C3%BAsica;Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
 </p>
 
-```
+<p align="center">
+  <a href="https://github.com/letarthuralcantara">
+    <img src="https://komarev.com/ghpvc/?username=letarthuralcantara&label=Visualiza%C3%A7%C3%B5es+de+Perfil&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+</p>
 
-arthur@ifpb --------------------------------------
-OS: .................. Windows 11
-Host: ................ IFPB - João Pessoa
-Curso: ............... Técnico em Informática
-Languages.Programming: JavaScript, SQL, C (Arduino)
-Languages.Backend: ... Node.js, Prisma
-Languages.Real: ...... Português (fluente), Inglês (leitura/escuta fluente)
+<br>
 
-Hobbies.Music: ....... Produção musical no FL Studio 🎧
-Hobbies.Hardware: .... Projetos com Arduino
+## 💻 Sobre Mim
 
-Contato ------------------------------------------
-Email: ............... arthuralcantara.dmf@gmail.com
-LinkedIn: ............ /in/arthur-alcântara
-Discord: ............. tucko18
-
+```yaml
+name: Arthur Alcântara
+pronouns: he/him
+location: João Pessoa, Brasil
+current_status: Estudante de Técnico em Informática no IFPB
+interests:
+  - Desenvolvimento Web (Fullstack)
+  - Eletrônica e Arduino
+  - Produção Musical (FL Studio)
+  - Novas Tecnologias
+contact:
+  email: arthuralcantara.dmf@gmail.com
+  linkedin: https://www.linkedin.com/in/arthur-alcântara
+  discord: tucko18
 ```
 
 <br>
 
-## 🚀 Stack & Ferramentas
+## 🚀 Minha Stack & Ferramentas Favoritas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,prisma" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,prisma,java,python,php,cpp" />
 </p>
 
 <br>
 
-## 📊 Nível de habilidade
-
-**JavaScript**
-```
-████████████████░░░░░░░░░░░░░░░░  50%
-```
-
-**SQL / Banco de Dados**
-```
-██████████████░░░░░░░░░░░░░░░░░░  45%
-```
-
-**Node.js**
-```
-████████████░░░░░░░░░░░░░░░░░░░░  40%
-```
-
-**Prisma**
-```
-██████████░░░░░░░░░░░░░░░░░░░░░░  35%
-```
-
-**Arduino / C**
-```
-██████████████████░░░░░░░░░░░░░░  55%
-```
-
-**Inglês (leitura/escuta)**
-```
-████████████████████████████░░░░  85%
-```
-
-> 
-
-<br>
-
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=letarthuralcantara&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letarthuralcantara&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=letarthuralcantara&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letarthuralcantara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letarthuralcantara&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letarthuralcantara&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
 
-## 🐍 Cobrinha comendo meus commits
+## 📈 Projetos por Linguagem (Dados Reais)
+
+<!--START_SECTION:langcount-->
+| Language | Projects |
+|----------|----------|
+| HTML | 14 |
+| CSS | 5 |
+| JavaScript | 1 |
+| C++ | 1 |
+| Java | 1 |
+| Python | 1 |
+| PHP | 1 |
+<!--END_SECTION:langcount-->
+
+<br>
+
+## 🐍 Cobrinha dos Commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 <br>
 
-## 🏆 Troféus
+## 🏆 Troféus do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=letarthuralcantara&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=letarthuralcantara&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <br>
 
-## 🎯 Objetivos atuais
+## 🎯 Objetivos Atuais
 
 - 🔭 Aprofundando conhecimento em **Node.js + Prisma**
 - 🌱 Estudando bancos de dados relacionais (**SQL**)
 - ⚡ Explorando eletrônica com **Arduino**
 - 🎶 Produzindo faixas no **FL Studio** nas horas vagas
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=letarthuralcantara&label=Visualizações+de+Perfil&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">⭐ From <a href="https://github.com/letarthuralcantara">letarthuralcantara</a></p>
