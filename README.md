@@ -66,7 +66,7 @@ Discord: ............. tucko18
 ████████████████████████████░░░░  85%
 ```
 
-> 💡 *Edita esses números conforme sua confiança real em cada um — são só estimativas.*
+> 
 
 <br>
 
