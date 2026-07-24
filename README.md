@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Arthur Alcântara 👋</h1>
 
 <p align="center">
-  <img src="the-world" alt="The World Is Yours" width="700"/>
+  <img src="the-world.gif" alt="The World Is Yours" width="700"/>
 </p>
 
 <br>
@@ -63,11 +63,10 @@ contact:
 
 <br>
 
-<!-- Pacman -->
+## 👻 Gráfico de Contribuições (Pac-Man)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/pacman-contribution-graph.svg">
 </picture>
-
-
