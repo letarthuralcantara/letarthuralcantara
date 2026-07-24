@@ -35,16 +35,6 @@
 </p>   
 
 
-## 🎯 Current Goals
-
-```bash
-# Current Objectives:
-#   - Deepen knowledge in Node.js + Prisma
-#   - Study SQL
-#   - Explore electronics with Arduino
-#   - Advance in music production
-```
-
 ## Contributions
 
 <picture>
