@@ -1,9 +1,4 @@
-```
- _____         _           _   _       _       
-|  _  |___ ___| |_ ___ ___| |_| |_ ___| |_ ___ 
-|   __|  _| . |  _| -_|  _|  _|   | . |  _| -_|
-|__|  |_| |___|_| |___|_| |_| |_|_|___|_| |___|
-```
+ <h1 align="center">Hello, I'm Arthur Alcântara 👋</h1>   
 
 <p align="center">
 <img src="the-world" alt="The World Is Yours" width="10000000"/>
@@ -11,7 +6,7 @@
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Decoding+the+future...;Building+innovative+solutions...;Exploring+new+technologies...;Crafting+digital+experiences...&font=Fira%20Code&size=24&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&height=50" alt="Typing SVG" />
 </p>   
- <h1 align="center">Hello, I'm Arthur Alcântara 👋</h1>   
+
 
 
 ## 💻 About Me
