@@ -13,7 +13,7 @@
   <a href="https://github.com/letarthuralcantara">
     <img src="https://img.shields.io/badge/GitHub-letarthuralcantara-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/arthuralcatar">
     <img src="https://img.shields.io/badge/Instagram-@arthuralcatar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@TUCKO8">
