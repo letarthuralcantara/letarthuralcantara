@@ -75,17 +75,5 @@ contact:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
 </picture>
-## 🏆 Troféus do GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=letarthuralcantara&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
-<br>
-
-## 🎯 Objetivos Atuais
-
-- 🔭 Aprofundando conhecimento em **Node.js + Prisma**
-- 🌱 Estudando bancos de dados relacionais (**SQL**)
-- ⚡ Explorando eletrônica com **Arduino**
-- 🎶 Produzindo faixas no **FL Studio** nas horas vagas
