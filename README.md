@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Instagram-@arthuralcatar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@TUCKO8">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Tucko-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -26,19 +26,13 @@
 
 ```bash
 # User: Arthur Alcântara
-# Status: Online
-# Location: João Pessoa, Brazil
+# Location: João Pessoa, Brazil 🇧🇷
 # Current Role: Student at IFPB
 # Interests:
 #   - Web Development (Fullstack )
 #   - Electronics and Arduino
 #   - Music Production (FL Studio)
 #   - New Technologies
-
-# Contact Information:
-#   - Email: arthuralcantara.dmf@gmail.com
-#   - LinkedIn: https://www.linkedin.com/in/arthur-alcântara
-#   - Discord: tucko18
 ```
 
 ## My Stack & Favorite Tools
@@ -46,6 +40,14 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp" />
 </p>   
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 
 ## Contributions
