@@ -1,4 +1,4 @@
- <h1 align="center">Hello, I'm Arthur Alcântara 👋</h1>   
+ <h1 align="center">Hello 👋, I'm Arthur Alcântara </h1>   
 
 <p align="center">
 <img src="the-world" alt="The World Is Yours" width="10000000"/>
@@ -15,7 +15,7 @@
 # User: Arthur Alcântara
 # Status: Online
 # Location: João Pessoa, Brazil
-# Current Role: Computer Science Student at IFPB
+# Current Role: Student at IFPB
 # Interests:
 #   - Web Development (Fullstack )
 #   - Electronics and Arduino
