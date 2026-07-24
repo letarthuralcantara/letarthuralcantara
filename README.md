@@ -63,7 +63,7 @@ contact:
 
 <br>
 
-## 👻 Gráfico de Contribuições (Pac-Man)
+##  Contributions 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/pacman-contribution-graph-dark.svg">
