@@ -1,13 +1,7 @@
 <h1 align="center">Olá, eu sou o Arthur Alcântara 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+M%C3%BAsica;Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/letarthuralcantara">
-    <img src="https://komarev.com/ghpvc/?username=letarthuralcantara&label=Visualiza%C3%A7%C3%B5es+de+Perfil&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/main/blimp-scarface.svg" alt="The World Is Yours" width="700"/>
 </p>
 
 <br>
