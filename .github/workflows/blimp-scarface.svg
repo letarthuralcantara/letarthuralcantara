@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <filter id="pixelglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="900" height="520" fill="#1B33D6" />
+
+  <!-- blimp silhouette -->
+  <g fill="#05060A">
+    <!-- main body -->
+    <path d="M 95,255
+             C 140,175 300,140 460,140
+             C 590,140 700,158 745,200
+             C 775,228 775,282 745,310
+             C 700,352 590,370 460,370
+             C 300,370 140,335 95,255 Z" />
+
+    <!-- nose highlight cut (subtle) -->
+
+    <!-- tail fin top -->
+    <path d="M 690,175 L 830,95 L 760,215 Z" />
+    <!-- tail fin bottom -->
+    <path d="M 690,335 L 830,415 L 760,295 Z" />
+    <!-- tail fin side (rudder) -->
+    <path d="M 700,205 L 855,255 L 700,305 Z" />
+
+    <!-- gondola ropes -->
+    <path d="M 230,355 L 205,410 M 300,368 L 285,415 M 370,372 L 365,418" stroke="#05060A" stroke-width="4" fill="none" />
+    <!-- gondola -->
+    <rect x="185" y="410" width="205" height="34" rx="6" />
+  </g>
+
+  <!-- rotating / decoding text on the blimp -->
+  <g transform="translate(420,255)">
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">UJZ DE0GX</tspan>
+<tspan x="0" y="22.0">&gt;D &amp;NCF@!EP</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.00000;0.00889;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THF 1@D&lt;H</tspan>
+<tspan x="0" y="22.0">IS O&gt;D&lt;&gt;ZDO</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.00889;0.01778;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE C1IS!</tspan>
+<tspan x="0" y="22.0">IS YJ0H&lt;T1L</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.01778;0.02667;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WOG&gt;&lt;</tspan>
+<tspan x="0" y="22.0">IS YOUMXG1E</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.02667;0.03556;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WORL&lt;</tspan>
+<tspan x="0" y="22.0">IS YOURSD\N</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.03556;0.04444;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WORLD</tspan>
+<tspan x="0" y="22.0">IS YOURS..^</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.04444;0.05333;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WORLD</tspan>
+<tspan x="0" y="22.0">IS YOURS...</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.05333;0.06222;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WORLD</tspan>
+<tspan x="0" y="22.0">IS YOURS...</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.06222;0.07111;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">THE WORLD</tspan>
+<tspan x="0" y="22.0">IS YOURS...</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.07111;0.32296;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">0@U$&gt;$</tspan>
+<tspan x="0" y="22.0">XTPLPF&lt;T*</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.34519;0.35407;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">AR^V#S</tspan>
+<tspan x="0" y="22.0">AL/EH&amp;!KV</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.35407;0.36296;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHJ^</tspan>
+<tspan x="0" y="22.0">ALCÂ!CE1&lt;</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.36296;0.37185;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHUR</tspan>
+<tspan x="0" y="22.0">ALCÂNTUVW</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.37185;0.38074;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHUR</tspan>
+<tspan x="0" y="22.0">ALCÂNTAR/</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.38074;0.38963;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHUR</tspan>
+<tspan x="0" y="22.0">ALCÂNTARA</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.38963;0.39852;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHUR</tspan>
+<tspan x="0" y="22.0">ALCÂNTARA</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.39852;0.40741;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="-22.0">ARTHUR</tspan>
+<tspan x="0" y="22.0">ALCÂNTARA</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.40741;0.65926;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">^&gt;$EF</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.68148;0.69037;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">TUR%E</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.69037;0.69926;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">TUCKD</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.69926;0.70815;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">TUCKO</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.70815;0.71704;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">TUCKO</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.71704;0.72593;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0" filter="url(#pixelglow)">
+      <text x="0" y="0" text-anchor="middle" font-family="'Courier New', monospace" font-size="34" font-weight="700" letter-spacing="3" fill="#EDE9F5">
+        <tspan x="0" y="0.0">TUCKO</tspan>
+      </text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.00000;0.72593;0.97778;1.00000" dur="6.750s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>
