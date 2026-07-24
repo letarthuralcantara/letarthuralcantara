@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Arthur Alcântara 👋</h1>
 
 <p align="center">
-  <img src="the-world" alt="The World Is Yours" width="100000"/>
+  <img src="the-world" alt="The World Is Yours" width="10000000"/>
 </p>
 
 <br>
