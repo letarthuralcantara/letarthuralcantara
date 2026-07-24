@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Decoding+the+future...;Building+innovative+solutions...;Exploring+new+technologies...;Crafting+digital+experiences...&font=Fira%20Code&size=24&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&height=50" alt="Typing SVG" />
 </p>   
 
-🌐 Where to find me
+## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/letarthuralcantara">
-  
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -23,9 +23,6 @@
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
-
 
 
 ## 💻 About Me
