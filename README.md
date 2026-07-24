@@ -31,7 +31,7 @@
 ## My Stack & Favorite Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,prisma,java,python,php,cpp" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,java,python,php,cpp" />
 </p>   
 
 
