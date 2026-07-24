@@ -1,9 +1,9 @@
+```
  _____         _           _   _       _       
 |  _  |___ ___| |_ ___ ___| |_| |_ ___| |_ ___ 
 |   __|  _| . |  _| -_|  _|  _|   | . |  _| -_|
 |__|  |_| |___|_| |___|_| |_| |_|_|___|_| |___|
-
-
+```
 
 <p align="center">
 <img src="the-world.gif" alt="The World Is Yours" width="10000000"/>
@@ -14,12 +14,9 @@
  <h1 align="center">Hello, I'm Arthur Alcântara 👋</h1>   
 
 
+## 💻 About Me
 
-💻 About Me
-
-Bash
-
-
+```bash
 # User: Arthur Alcântara
 # Status: Online
 # Location: João Pessoa, Brazil
@@ -34,31 +31,26 @@ Bash
 #   - Email: arthuralcantara.dmf@gmail.com
 #   - LinkedIn: https://www.linkedin.com/in/arthur-alcântara
 #   - Discord: tucko18
+```
 
-
-
-My Stack & Favorite Tools
+## My Stack & Favorite Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,prisma,java,python,php,cpp" />
 </p>   
 
 
+## 🎯 Current Goals
 
-🎯 Current Goals
-
-Bash
-
-
+```bash
 # Current Objectives:
 #   - Deepen knowledge in Node.js + Prisma
 #   - Study SQL
 #   - Explore electronics with Arduino
 #   - Advance in music production
+```
 
-
-
-Contributions
+## Contributions
 
 <picture>
 <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/letarthuralcantara/letarthuralcantara/output/pacman-contribution-graph-dark.svg">
@@ -67,15 +59,10 @@ Contributions
 </picture>   
 
 
+## 📞 Connect with Me
 
-📞 Connect with Me
-
-Bash
-
-
+```bash
 # Email: arthuralcantara.dmf@gmail.com
 # LinkedIn: https://www.linkedin.com/in/arthur-alcântara
 # Discord: tucko18
-
-
-
+```
