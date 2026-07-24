@@ -26,7 +26,7 @@ contact:
 
 <br>
 
-## 🚀 Minha Stack & Ferramentas Favoritas
+## Minha Stack & Ferramentas Favoritas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,prisma,java,python,php,cpp" />
@@ -34,34 +34,7 @@ contact:
 
 <br>
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=letarthuralcantara&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letarthuralcantara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letarthuralcantara&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
-## 📈 Projetos por Linguagem (Dados Reais)
-
-<!--START_SECTION:langcount-->
-| Language | Projects |
-|----------|----------|
-| HTML | 14 |
-| CSS | 5 |
-| JavaScript | 1 |
-| C++ | 1 |
-| Java | 1 |
-| Python | 1 |
-| PHP | 1 |
-<!--END_SECTION:langcount-->
-
-<br>
 
 ##  Contributions 
 
