@@ -63,7 +63,7 @@
 ## 🚀 Philosophy
 
 > _"
-..."_
+Every living creature on earth dies alone"_
 
 ---
 
