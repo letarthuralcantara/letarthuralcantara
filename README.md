@@ -63,7 +63,7 @@
 ## 🚀 Philosophy
 
 > _"
-Every living creature on earth dies alone"_
+Pay attention to the patterns; they occur repeatedly."_
 
 ---
 
