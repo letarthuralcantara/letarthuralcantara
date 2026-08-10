@@ -41,10 +41,8 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp" />
 </p>   
 
----
 
 
----
 
 ## 📞 Connect with Me
 
