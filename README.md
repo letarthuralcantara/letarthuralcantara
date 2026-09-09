@@ -39,7 +39,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp" />
-<img src="assets/Fl_studio_logo.png" width="48" height="48" alt="FL Studio"/>
+<img src="assets/Fl_studio_logo.png" width="48" height="48" alt="FL Studio"/> <img src="assets/cisco-logo.png" width="48" height="48" alt="Cisco"/>
 </p>
 
 
