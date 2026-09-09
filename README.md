@@ -38,7 +38,7 @@
 ## My Stack & Favorite Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp,fl" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp," /> <img src=".github/workflows/Fl_studio_logo.png"/>
 </p>   
 
 
