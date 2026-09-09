@@ -1,7 +1,7 @@
  <h1 align="center">Hello 👋, I'm Arthur Alcântara </h1>   
 
 <p align="center">
-<img src="assents/the-world" alt="The World Is Yours" width="10000000"/>
+<img src="assets/the-world" alt="The World Is Yours" width="10000000"/>
 </p>   
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Decoding+the+future...;Building+innovative+solutions...;Exploring+new+technologies...;Crafting+digital+experiences...&font=Fira%20Code&size=24&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&height=50" alt="Typing SVG" />
@@ -38,7 +38,7 @@
 ## My Stack & Favorite Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp," /> <img src=".github/workflows/Fl_studio_logo.png"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,arduino,html,css,git,github,vscode,windows,linux,prisma,python,php,cpp," /> <img src="assets/Fl_studio_logo.png"/>
 </p>   
 
 
