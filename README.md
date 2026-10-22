@@ -49,7 +49,7 @@
 
 ```bash
 # Email: arthuralcantara.dmf@gmail.com
-# LinkedIn: https://www.linkedin.com/in/arthur-alcântara
+# LinkedIn: https://www.linkedin.com/in/arthur-alc%C3%A2ntara-3626a0267/
 # Discord: tucko18
 ```
 
